@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaliLovesTech
-- 👀 I’m interested in ...Python and Linux
-- 🌱 I’m currently learning ...Python and RH Linux
+- 👀 I’m interested in ...Python, Javascript, HTML/CSS, and Linux
+- 🌱 I’m currently practicing FrontEnd, HTML/CSS.
 - 💞️ I’m looking to collaborate on ...Python Projects
 - 📫 How to reach me ...kalilovestech@gmail.com
 
