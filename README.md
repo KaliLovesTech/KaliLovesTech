@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KaliLovesTech
-- 👀 I’m interested in ...Python, Javascript, HTML/CSS, and Linux
-- 🌱 I’m currently practicing FrontEnd, HTML/CSS.
-- 💞️ I’m looking to collaborate on ...Python Projects
+- 👋 Hi, I’m Kali
+- 👀 I’m interested in ...Full Stack Web Development
+- 🌱 I’m currently practicing Python, Django, HTML, CSS, Javascript, and SQL.
+- 💞️ I’m looking to collaborate on ...Web app Projects
 - 📫 How to reach me ...kalilovestech@gmail.com
 
 <!---
